@@ -1,0 +1,2 @@
+# regneklynge
+Objektorientert programmering skoleprosjekt
